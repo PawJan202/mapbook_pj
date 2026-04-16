@@ -1,0 +1,1 @@
+print('Geodezja i geoinformatyka rzadzi!!!1111')
