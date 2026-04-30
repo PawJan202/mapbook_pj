@@ -1,5 +1,5 @@
 users: list = [
-    {'username': 'Oliwia', 'location': 'Ryki', 'posts': 1,
+    {'username': 'Oliwia', 'location': 'Łódź*', 'posts': 1,
      'usermessage': ['zyczenia1', 'Kocham Legie', 'Sprzedam Opla', 'kiwi']},
     {'username': 'Paweł', 'location': 'Ostróda', 'posts': 2,
      'usermessage': ['zyczenia2', 'Kocham Legie1', 'Sprzedam Opla1']},
